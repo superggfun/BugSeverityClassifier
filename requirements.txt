@@ -1,8 +1,8 @@
-pandas==1.5.3
-numpy==1.23.5
-datasets==2.16.1
-scikit-learn==1.2.2
-imbalanced-learn==0.10.1
-matplotlib==3.6.2
-seaborn==0.12.1
-nltk==3.8.1
+pandas==2.2.3
+numpy==1.26.4
+datasets==3.4.1
+scikit-learn==1.6.1
+imbalanced-learn==0.12.4
+matplotlib==3.9.2
+seaborn==0.13.2
+nltk==3.9.1
